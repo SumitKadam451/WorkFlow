@@ -27,7 +27,7 @@ Welcome to the Web Developer Workflow Platform, designed to optimize your team's
 
 ![App Screenshot](https://github.com/SumitKadam451/WorkFlow/blob/main/Screenshot_1.png)
 
-![App Screenshot](https://github.com/SumitKadam451/WorkFlow/blob/main/Screenshot_2.png)
+![App Screenshot](https://github.com/SumitKadam451/WorkFlow/blob/main/Screenshot-2.png)
 
 
 ## Demo
