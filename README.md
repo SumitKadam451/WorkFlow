@@ -32,7 +32,7 @@ Welcome to the Web Developer Workflow Platform, designed to optimize your team's
 
 ## Demo
 
-Check out the live demo of [WorkFlow](https://sumitkadam451.github.io/WorkFlow/)
+Check out the live demo of [WorkFlow](https://workflow-5uw.pages.dev/)
 
 
 ## 🚀 About Me
